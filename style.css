@@ -9,8 +9,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* background: linear-gradient(19deg,#24d4fd 0%,#b721ff); */
-    background: black;
+    background: linear-gradient(19deg,#24d4fd 0%,#b721ff); 
 }
 h1{
     color: white;
